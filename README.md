@@ -1,6 +1,7 @@
 # Deployer
+Deployment automation for Elixir projects
 
-**TODO: Add description**
+[![CI](https://github.com/Youimmi/deployer/workflows/CI/badge.svg?branch=main&event=push)](https://github.com/Youimmi/deployer) [![hex.pm version](https://img.shields.io/hexpm/v/deployer.svg)](https://hex.pm/packages/deployer)
 
 ## Installation
 
@@ -18,4 +19,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/deployer](https://hexdocs.pm/deployer).
-

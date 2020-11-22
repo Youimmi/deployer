@@ -30,5 +30,6 @@
 # Ignore hidden files
 .*
 !.formatter.exs
+!.github
 !.gitignore
 !.keep
