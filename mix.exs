@@ -56,7 +56,7 @@ defmodule Deployer.MixProject do
   defp aliases do
     [
       update: [
-        "cmd rm -rf _build .elixir_ls deps erl_crash.dump mix.lock",
+        "cmd rm -rf _build deps mix.lock",
         "deps.get"
       ]
     ]
